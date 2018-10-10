@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,,,2018-10-10 12:58:42,2018-10-10 12:58:52,9.713s,FAILED
+,,,,,,
+Test Cases/Mercury_Login_manually,,,2018-10-10 12:58:43,2018-10-10 12:58:50,6.584s,FAILED
+openBrowser,,,2018-10-10 12:58:44,2018-10-10 12:58:50,5.947s,FAILED
+,,,,,,
+Test Cases/Flight_Finder,,,2018-10-10 12:58:50,2018-10-10 12:58:52,2.374s,FAILED
+openBrowser,,,2018-10-10 12:58:50,2018-10-10 12:58:52,2.053s,FAILED

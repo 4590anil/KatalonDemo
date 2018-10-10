@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Firefox 62.0,,2018-10-10 12:58:42,2018-10-10 12:59:07,24.372s,FAILED
+,,,,,,
+Test Cases/Mercury_Login_manually,Firefox 62.0,,2018-10-10 12:58:43,2018-10-10 12:59:01,17.696s,PASSED
+openBrowser,Firefox 62.0,,2018-10-10 12:58:44,2018-10-10 12:58:49,5.149s,PASSED
+navigateToUrl,Firefox 62.0,,2018-10-10 12:58:49,2018-10-10 12:58:54,4.914s,PASSED
+click,Firefox 62.0,,2018-10-10 12:58:54,2018-10-10 12:58:55,1.163s,PASSED
+setText,Firefox 62.0,,2018-10-10 12:58:55,2018-10-10 12:58:56,0.627s,PASSED
+setText,Firefox 62.0,,2018-10-10 12:58:56,2018-10-10 12:58:56,0.133s,PASSED
+click,Firefox 62.0,,2018-10-10 12:58:56,2018-10-10 12:59:01,5.239s,PASSED
+,,,,,,
+Test Cases/Flight_Finder,Firefox 62.0,,2018-10-10 12:59:01,2018-10-10 12:59:06,5.471s,FAILED
+openBrowser,Firefox 62.0,,2018-10-10 12:59:01,2018-10-10 12:59:04,3.187s,PASSED
+navigateToUrl,Firefox 62.0,,2018-10-10 12:59:04,2018-10-10 12:59:06,1.712s,PASSED
+setText,Firefox 62.0,,2018-10-10 12:59:06,2018-10-10 12:59:06,0.085s,PASSED
+setEncryptedText,Firefox 62.0,,2018-10-10 12:59:06,2018-10-10 12:59:06,0.249s,FAILED
